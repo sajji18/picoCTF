@@ -1,0 +1,5 @@
+chmod +x warm => This command makes the warm file executable
+
+./warm => Runs the file and displays the output
+
+./warm -h => similar to --help in some cases, provides the required flag

@@ -1,0 +1,5 @@
+Open Ubuntu Terminal
+
+Use the command : cat flag
+
+This displays all the contents of the file

@@ -1,0 +1,5 @@
+cat pw.txt => to find the password for executing the python script
+
+python3 ende.py -d flag.txt.en (This command executes the python script and uses it to decrypt a given encrypted file)
+
+Enter the password obtained before to find the flag

@@ -1,0 +1,5 @@
+unzip folder.zip => unzips the folder and creates a new folder with extracted content
+
+cd foldername => Continue this repeatedly until the deepest file is obtained
+
+xxd filename => display the contents in hexadecimal form and the flag can be obtained from the dump

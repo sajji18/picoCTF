@@ -1,0 +1,5 @@
+chmod +x static => this command makes the static file executable
+
+./static => executes the static file and output provides a hint that flag is residing in it only
+
+xxd static => creates a hexadecimal dump of a binary file. flag can be found in the dump

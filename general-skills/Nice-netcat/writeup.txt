@@ -1,0 +1,7 @@
+nc mercury.picoctf.net 21135 => This command after executing in shell gives a list of numbers
+
+Create a txt file with each number occupying a line
+
+write a python script ascii.py which converts each number to its corresponding ascii character
+
+join all these characters to get the required flag
