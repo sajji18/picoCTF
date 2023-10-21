@@ -1,0 +1,4 @@
+Convert 0x3D (base 16) to decimal (base 10) using CyberChef
+
+flag => picoCTF{61}
+

@@ -1,0 +1,5 @@
+nc saturn.picoctf.net 49700 => netcat command used to open the domain at some port
+
+Convert the resulting ouput into ascii with the help of CyberChef online
+
+The required flag is obtained

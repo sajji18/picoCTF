@@ -1,0 +1,3 @@
+wget => Download the required files from picoCTF
+
+python3 code.py => Execute the python file (Make sure codebook.txt is in the same directory)

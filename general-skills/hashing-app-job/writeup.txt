@@ -1,0 +1,5 @@
+nc saturn.picoctf.net 50561 => Connect to the server and listen for prompts
+
+Use a web tool to convert the required strings in the md5 format
+
+The flag is obtained

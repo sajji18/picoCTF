@@ -1,0 +1,3 @@
+Use CyberChef to convert 0x70 into ascii character
+
+ans is p => flag - picoCTF{p}

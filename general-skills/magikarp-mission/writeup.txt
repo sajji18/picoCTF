@@ -1,0 +1,12 @@
+ssh ctf-player@venus.picoctf.net -p 49912 => Establishhes connection to the challenge instance
+
+a13b7f9d => Enter this password to log in as the ctf-player
+
+ls + cat file => gives part of the flag
+
+cd / => moves to the root directory
+
+cat file => In the root directory another file is present containing another part of the flag
+
+cd home + ls + cat file => Final part of the flag is found
+

@@ -1,0 +1,7 @@
+wget file => Download the script from picoCTF
+
+python3 fixme2.py => Execute the script in order to check it for errors
+
+nano fixme2.py => Open the file in the webshell
+
+Correct the equality operation, and exit out of nano, followed by running the py script again to get the required flag

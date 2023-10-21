@@ -1,0 +1,5 @@
+wget => Dowload the given python script
+
+python3 convertme.py => Run the script
+
+Return the binary form of the outputted decimal number to get the required flag

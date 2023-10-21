@@ -1,0 +1,6 @@
+strings strings => It is met with a lot of plain text
+
+strings strings | grep picoCTF => Since the format of flags start with picoCTF, we can grep it instead of finding manually. The required flag is this obtained
+
+https://linux.die.net/man/1/strings => additional information on strings command
+

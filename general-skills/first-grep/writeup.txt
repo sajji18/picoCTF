@@ -1,0 +1,3 @@
+strings file | grep picoCTF => finds the required flag as otherwise would be extremely tedious
+
+https://ryanstutorials.net/linuxtutorial/grep.php => for more information on the grep command

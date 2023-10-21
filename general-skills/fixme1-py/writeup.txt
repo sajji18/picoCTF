@@ -1,0 +1,14 @@
+wget => Download the python script from picoCTF
+
+python3 fixme1.py => Run it in order to inspect the errors 
+
+OPTION 1
+vi fixme1.py => Open file in vi editor
+
+Press Esc followed by i to make changes.
+
+After making the required changes, press ESC followed by :wq!
+
+OPTION 2
+nano fixme1.py => Used to view the file in webshell. Select out of given options to make changes
+

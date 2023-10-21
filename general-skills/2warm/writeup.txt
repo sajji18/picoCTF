@@ -1,0 +1,3 @@
+Convert 42 (base 10) to binary (base 2)
+
+flag => picoCTF{101010}

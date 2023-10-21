@@ -1,0 +1,8 @@
+nc -v jupiter.challenges.picoctf.org 64287
+
+nc => It is the netcat command which is used to establish connection between client and server
+
+The netcat command, also known as nc, is a command-line utility that allows users to read and write data over a network connection. It can be used to establish connections to servers and clients, send and receive data, and perform a variety of other network-related tasks.
+
+
+https://linux.die.net/man/1/nc => READ FOR EXTENSIVE KNOWLEDGE ON NETCAT	
